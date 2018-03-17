@@ -53,7 +53,6 @@ namespace PongAloneWPF
         {
             InitializeComponent();
 
-            tb_path.Text = "Current Path: " + BALL_HIT_PATH;
             InitializeGame();
         }
 
